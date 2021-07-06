@@ -1,6 +1,6 @@
 --- # Manifeste Poggit-CI. Ouvrez le CI à l'adresse https://poggit.pmmp.io/ci/Scarynite/buildbattle
 build-by-default : true
-succursales :
+Branches :
 - master 
 projects:
 Buildbattle
